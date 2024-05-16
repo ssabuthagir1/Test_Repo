@@ -1,3 +1,4 @@
 Hi
 
 In this session we are going to see cherry-pick in git
+how to select the changes in that
